@@ -1,0 +1,21 @@
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: Arial;
+  padding: 40px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #334155;
+  padding: 12px;
+}
+
+.winner {
+  color: #22c55e;
+}
